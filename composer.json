@@ -1,12 +1,12 @@
 {
-    "name": "ksoft/laravel-contentbuilderjs",
+    "name": "ixo/laravel-contentbuilderjs",
     "description": "Content builder package for laravel",
     "keywords": ["laravel", "ContentBuilderJS"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Kiko Seijo",
-            "email": "kiko@sunnyface.com"
+            "name": "Tuan Nguyen",
+            "email": "tuan.nguyen@ixosoftware.com"
         }
     ],
    "autoload": {

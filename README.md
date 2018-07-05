@@ -27,7 +27,7 @@ This plugins allows you, not only, to create and save templates in the database,
 Add the package in your `composer.json` by executing the command.
 
 ```bash
-composer require ixo/laravel-contentbuilderjs
+composer require ixo/laravel-contentbuilderjs:dev-master
 ```
 
 Next, add the service provider to `config/app.php`
